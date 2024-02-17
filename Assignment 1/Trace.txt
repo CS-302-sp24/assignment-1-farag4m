@@ -1,1 +1,114 @@
+5 0 200 200 0
 
+Philosopher 0 thinks for 126 units
+Philosopher 0 wants Chopstick 0 chopstick
+Philosopher 0 has Chopstick 0 chopstick
+Philosopher 0 wants Chopstick 1 chopstick
+Philosopher 0 has Chopstick 1 chopstick
+Philosopher 0 eats for 178 units
+Philosopher 0 releases Chopstick 1 chopstick
+Philosopher 0 releases Chopstick 0 chopstick
+Philosopher 1 thinks for 57 units
+Philosopher 1 wants Chopstick 1 chopstick
+Philosopher 1 has Chopstick 1 chopstick
+Philosopher 1 wants Chopstick 2 chopstick
+Philosopher 1 has Chopstick 2 chopstick
+Philosopher 1 eats for 39 units
+Philosopher 1 releases Chopstick 2 chopstick
+Philosopher 1 releases Chopstick 1 chopstick
+Philosopher 2 thinks for 81 units
+Philosopher 2 wants Chopstick 2 chopstick
+Philosopher 2 has Chopstick 2 chopstick
+Philosopher 2 wants Chopstick 3 chopstick
+Philosopher 2 has Chopstick 3 chopstick
+Philosopher 2 eats for 169 units
+Philosopher 2 releases Chopstick 3 chopstick
+Philosopher 2 releases Chopstick 2 chopstick
+Philosopher 3 thinks for 153 units
+Philosopher 3 wants Chopstick 3 chopstick
+Philosopher 3 has Chopstick 3 chopstick
+Philosopher 3 wants Chopstick 4 chopstick
+Philosopher 3 has Chopstick 4 chopstick
+Philosopher 3 eats for 173 units
+Philosopher 3 releases Chopstick 4 chopstick
+Philosopher 3 releases Chopstick 3 chopstick
+Philosopher 4 thinks for 88 units
+Philosopher 4 wants Chopstick 4 chopstick
+Philosopher 4 has Chopstick 4 chopstick
+Philosopher 4 wants Chopstick 0 chopstick
+Philosopher 4 has Chopstick 0 chopstick
+Philosopher 4 eats for 93 units
+Philosopher 4 releases Chopstick 0 chopstick
+Philosopher 4 releases Chopstick 4 chopstick
+
+
+5 0 500 500 1
+
+Philosopher 0 thinks for 429 units
+Philosopher 0 wants Chopstick 0 chopstick
+Philosopher 0 has Chopstick 0 chopstick
+Philosopher 0 wants Chopstick 1 chopstick
+Philosopher 0 has Chopstick 1 chopstick
+Philosopher 0 eats for 445 units
+Philosopher 0 releases Chopstick 1 chopstick
+Philosopher 0 releases Chopstick 0 chopstick
+Philosopher 1 thinks for 153 units
+Philosopher 1 wants Chopstick 1 chopstick
+Philosopher 1 has Chopstick 1 chopstick
+Philosopher 1 wants Chopstick 2 chopstick
+Philosopher 1 has Chopstick 2 chopstick
+Philosopher 1 eats for 259 units
+Philosopher 1 releases Chopstick 2 chopstick
+Philosopher 1 releases Chopstick 1 chopstick
+Philosopher 2 thinks for 409 units
+Philosopher 2 wants Chopstick 2 chopstick
+Philosopher 2 has Chopstick 2 chopstick
+Philosopher 2 wants Chopstick 3 chopstick
+Philosopher 2 has Chopstick 3 chopstick
+Philosopher 2 eats for 230 units
+Philosopher 2 releases Chopstick 3 chopstick
+Philosopher 2 releases Chopstick 2 chopstick
+Philosopher 3 thinks for 24 units
+Philosopher 3 wants Chopstick 3 chopstick
+Philosopher 3 has Chopstick 3 chopstick
+Philosopher 3 wants Chopstick 4 chopstick
+Philosopher 3 has Chopstick 4 chopstick
+Philosopher 3 eats for 484 units
+Philosopher 3 releases Chopstick 4 chopstick
+Philosopher 3 releases Chopstick 3 chopstick
+Philosopher 4 thinks for 105 units
+Philosopher 4 wants Chopstick 4 chopstick
+Philosopher 4 has Chopstick 4 chopstick
+Philosopher 4 wants Chopstick 0 chopstick
+Philosopher 4 has Chopstick 0 chopstick
+Philosopher 4 eats for 204 units
+Philosopher 4 releases Chopstick 0 chopstick
+Philosopher 4 releases Chopstick 4 chopstick
+
+
+5 0 1000 1000 1
+
+Philosopher 0 thinks for 586 units
+Philosopher 0 wants Chopstick 0 chopstick
+Philosopher 0 has Chopstick 0 chopstick
+Philosopher 0 wants Chopstick 1 chopstick
+Philosopher 0 has Chopstick 1 chopstick
+Philosopher 0 eats for 453 units
+Philosopher 0 releases Chopstick 1 chopstick
+Philosopher 0 releases Chopstick 0 chopstick
+Philosopher 0 thinks for 104 units
+Philosopher 0 wants Chopstick 0 chopstick
+Philosopher 0 has Chopstick 0 chopstick
+Philosopher 0 wants Chopstick 1 chopstick
+Philosopher 0 has Chopstick 1 chopstick
+Philosopher 0 eats for 139 units
+Philosopher 0 releases Chopstick 1 chopstick
+Philosopher 0 releases Chopstick 0 chopstick
+Philosopher 0 thinks for 722 units
+Philosopher 0 wants Chopstick 0 chopstick
+Philosopher 0 has Chopstick 0 chopstick
+Philosopher 0 wants Chopstick 1 chopstick
+Philosopher 0 has Chopstick 1 chopstick
+Philosopher 0 eats for 867 units
+Philosopher 0 releases Chopstick 1 chopstick
+Philosopher 0 releases Chopstick 0 chopstick
